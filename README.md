@@ -46,7 +46,6 @@ Currently working on research projects involving machine learning, computer visi
 
 ## 📫 Connect with Me
 
-- My Website: [Moien Sohani](https://www.linkedin.com/in/moien-sohani-darban)
-- LinkedIn: [Moien Sohani-Darban](https://www.linkedin.com/in/moien-sohani-darban)
-- GitHub: [MoienSohaniDarban](https://github.com/MoienSohaniDarban)
+- LinkedIn: [Moien Sohani-Darban](https://www.linkedin.com/in/moien-sohani)
+- GitHub: [Moien Sohani](https://github.com/moien-sohani-darban)
 - Email: [moiensohani80@gmail.com](moiensohani80@gmail.com)
